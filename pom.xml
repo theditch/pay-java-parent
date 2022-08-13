@@ -5,7 +5,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.egzosn</groupId>
-    <artifactId>pay-java-parent</artifactId><!--  -->
+    <artifactId>pay-java-parent</artifactId><!-- develop提交 -->
     <packaging>pom</packaging>
     <version>2.14.4-fix</version>
 
